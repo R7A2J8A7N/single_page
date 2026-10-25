@@ -4,7 +4,7 @@
 
 ## Github Project URL
 
-[https://github.com/R7A2J8A7N/single_page](https://github.com/R7A2J8A7N/single_page)
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 ## How can run the project
 
